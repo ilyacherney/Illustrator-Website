@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    background-image: url("img/girl.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100%;
+    
+    font-family: Open Sans, sans serif;
+    font-size: 18px;
+}
+.container {
+    width: 29%;
+    margin-top: 8%;
+    margin-left: 12%;
+    
+}
+h1 {
+    font-family: Georgia, serif;
+    font-size: 44px;
+}
+h2 {
+    font-size: 18px;
+    font-weight: 400;
+}
+button {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #ff7b00;
+    border: 2px solid;
+    border-width: 3px;
+    border-radius: 50px;
+    border-color: #ff7b00;
+    padding: 4%;
+    margin-top: 20%;
+    background-color: transparent;
+
+}
+.contacts {
+    font-size: 16px;
+    margin-top: 20%;
+    font-weight: 700;
+}
+.icons {
+    width: 30px;
+    height: 30px;
+}
+
+footer {
+    background-color: #121212;
+    color: #9d9d9d;
+    margin: 0 auto;
+    padding-top: 45px;
+    padding-bottom: 15px;
+    align-content: center;
+    text-align: center;
+}
+.footer-text {
+    text-align: center;
+    font-family: open sans, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    
+}
